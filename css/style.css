@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Asap+Condensed');
+body{
+	width: 80%;
+	margin-left: 10%;
+}
+
+.start-container{
+	margin-top: 12%;
+}
+
+.start-container .title-text h1{
+	color: white;
+	font-family: 'Asap Condensed', sans-serif;
+	font-size: 55px;
+}
+
+.start-container .title-text h4{
+	color: #a34810;
+	font-size: 25px;
+	font-weight: bolder;
+}
+nav{
+	font-family: 'Asap Condensed', sans-serif;
+}
+.text-bold{
+	font-weight: bold;
+}
+h5{
+	font-weight: bold;
+}
+#project_title{
+	font-weight: bold;
+	font-family: 'Asap Condensed', sans-serif;
+	font-style: 16px;
+	color: green;
+	text-align: center;
+}
